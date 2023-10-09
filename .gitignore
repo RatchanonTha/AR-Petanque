@@ -5,12 +5,12 @@
 **/Library/
 **/[Ll]ibrary/
 /petanque_project/Library/
-/Temp/
-/Obj/
-/Build/
-/Builds/
-/Logs/
-/UserSettings/
+/petanque_project/Temp/
+/petanque_project/Obj/
+/petanque_project/Build/
+/petanque_project/Builds/
+/petanque_project/Logs/
+/petanque_project/UserSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

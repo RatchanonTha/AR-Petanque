@@ -4,6 +4,7 @@
 #
 **/Library/
 **/[Ll]ibrary/
+/petanque_project/Library/
 /Temp/
 /Obj/
 /Build/
